@@ -1,2 +1,3 @@
 # Covid-19-Analysis-Morocco
-Analyzing and forecasting Morocco's Covid-19 data.
+In this notebook, i explored Morocco's covid-19 data, did some exploratory data analysis, 
+and trained regression models to forecast future cases.
